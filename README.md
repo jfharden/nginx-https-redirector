@@ -1,3 +1,7 @@
+ARCHIVED
+
+AWS added redirect ability to ALBs a long while ago and I haven't needed to use this in a few years now.
+
 # nginx-https-redirector
 
 Provides a docker container running nginx which receives connections on port 80 and redirects them to an
